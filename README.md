@@ -5,6 +5,8 @@ High-Level Mathematics Knowledge Graph Dataset and Prompt Templates
 This repository contains a structured dataset and associated prompt templates generated from a project titled:
 “Construction and Application of a High-Level Mathematics Knowledge Graph Based on Large Language Models (LLMs)”
 
+![image-alt-text](images/example1.png)
+![image-alt-text](images/example2.png)
 
 Project Overview
 Traditional higher mathematics education often suffers from fragmentation of concepts and lack of guided learning paths. This project leverages the capabilities of large language models (LLMs) to:
@@ -23,6 +25,8 @@ Chapter 1: Limits and Continuity
 Chapter 2: Derivatives and Differentiation
 Chapter 3: Mean Value Theorems and Function Properties
 
+![image-alt-text](images/example3.png)
+
 Structure per entry:
 Concept: Formal mathematical definition
 Usage Notes: Pre-conditions, error-prone cases
@@ -40,6 +44,9 @@ Exam Patterns: Solving models + Judgement strategies
 Examples Matching: Problem alignment + Labeling
 See prompt_templates.md for detailed examples.
 Each prompt is optimized for output stability, format clarity, and semantic alignment with textbook logic.
+
+![image-alt-text](images/example4.png)
+![image-alt-text](images/example5.png)
 
 Evaluation
 Metric	Score (out of 5)
