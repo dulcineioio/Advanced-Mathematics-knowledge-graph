@@ -7,6 +7,7 @@ This repository contains a structured dataset and associated prompt templates ge
 
 Project Overview
 Traditional higher mathematics education often suffers from fragmentation of concepts and lack of guided learning paths. This project leverages the capabilities of large language models (LLMs) to:
+![Uploading 64f498e3c9942609a264c7398ca1d1d.png…]()
 
 Automatically extract structured knowledge from university-level calculus textbooks
 
