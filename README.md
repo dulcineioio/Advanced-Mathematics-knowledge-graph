@@ -5,6 +5,8 @@ High-Level Mathematics Knowledge Graph Dataset and Prompt Templates
 This repository contains a structured dataset and associated prompt templates generated from a project titled:
 “Construction and Application of a High-Level Mathematics Knowledge Graph Based on Large Language Models (LLMs)”
 
+![image-alt-text](example1.png)
+
 Project Overview
 Traditional higher mathematics education often suffers from fragmentation of concepts and lack of guided learning paths. This project leverages the capabilities of large language models (LLMs) to:
 
